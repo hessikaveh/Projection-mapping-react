@@ -1,5 +1,3 @@
-// https://twitter.com/marcinignac/status/1288418586709630976
-
 import * as THREE from 'three'
 import { CameraHelper } from 'three'
 import React, { useRef } from 'react'
